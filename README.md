@@ -1,6 +1,6 @@
 # CodingWithNeuralActivity
-Learning to manipulate neural activity data using python.
+This repo consists of a one-day lesson for learning to analyze neural activity data in Python and think like a neuroscientist.
+
+Active instruction should be provided for students with no previous coding experience.
 
 Instructions are found in the PDF file.
-
-To install python and the Spyder editor, go to anaconda.com/distribution and download the version for whatever operating system you have.
